@@ -15,7 +15,12 @@
 
 /* text color  */
 
-
+--primary-font: 'Poppins', sans-serif;
+--text-white: #fff;
+--text-black: #121212;
+--text-danger: #f63440;
+--text-gray: #aaa;
+--text-dark-gray: #777;
 
 }
 
