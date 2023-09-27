@@ -138,5 +138,5 @@ p{
 .home .slider-icon {
     font-size: 3rem;
     font-weight: 600;
-    color: var(--bg-danger);
+    color: var(--text-danger);
 }
