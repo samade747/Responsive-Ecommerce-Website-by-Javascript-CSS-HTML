@@ -110,3 +110,33 @@ p{
 .home .home-banner-2{
     background-image: url(./Assets/images/images/slide2.jpg);
 }
+
+
+.home .home-banner .home-banner-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-110%, -50%);
+}
+
+.home .home-banner .home-banner-text h1 {
+    font-size: 6rem;
+}
+
+.home .carousel-indicators [data-bs-target]{
+    background-color: var(--bg-danger);
+    width: 2.5rem;
+    height: 0.313rem;
+}
+
+.home .carousel-indicators-next-icon,
+.home .carousel-indicators-prev-icon{
+    transform: transparent;
+    
+}
+
+.home .slider-icon {
+    font-size: 3rem;
+    font-weight: 600;
+    color: var(--bg-danger);
+}
