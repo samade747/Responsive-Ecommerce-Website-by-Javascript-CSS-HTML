@@ -52,7 +52,9 @@
     font-size: 0.2rem;
 }
 
-
+.products .up_to_content h2{
+    font-size: 0.35;
+}
 
     
 }
@@ -61,4 +63,12 @@
     .home .home-banner .home-banner-text h2{
        font-size: 1rem; 
 }
+
+.products .up_to_content h2{
+    font-size: 0.25;
+}
+
+
+
+
 }
