@@ -8,13 +8,21 @@
 .home .home-banner .home-banner-text{
     transform: translate(-80%, -50%);
  }
- 
+
+ .offers .offers-box .offers-info .heading-bigger{
+    font-size: 3rem;
+    
+ } 
+
 }
 
 @media (max-width:991px){
     .home .home-banner .home-banner-text{
         transform: translate(-66%, -50%);
     }
+
+
+
 
 }
 

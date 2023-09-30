@@ -214,12 +214,8 @@ p{
     text-transform: uppercase;
     font-weight: 400;
     margin-bottom: 0;
-    color: var(--text-white);
-}
-
-
-
-
+    color: var(--text-white); 
+} 
 
 
 .offers .offer-box .offer-info .offer-tittle-1{
@@ -228,4 +224,18 @@ p{
     font-weight: 300;
     margin-bottom: 0;
     letter-spacing: 2px;
+}
+
+.offers .offer-box .offer-info .btn-outline-danger{
+    color: var(--text-white);
+    border-color: var(--bg-white);
+    transition: all 0.3s ease-in-out;
+
+}
+
+
+.offers .offer-box .offer-info .btn-outline-danger:hover{
+    border-color: var(--bg-danger);
+    background-color: var(--bg-danger);
+
 }
