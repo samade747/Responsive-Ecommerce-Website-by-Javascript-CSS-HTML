@@ -14,6 +14,10 @@
     
  } 
 
+.special .countdown-container .countdown-counter li{
+    padding: 1.5rem 1rem;
+}
+
 }
 
 @media (max-width:991px){
@@ -21,6 +25,10 @@
         transform: translate(-66%, -50%);
     }
 
+    .special .countdown-container{
+        padding-top: 1rem;
+        padding-bottom: 5rem;
+    }
 
 
 
